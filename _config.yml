@@ -14,8 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
-
+title: Peter Kay / MSR Analytics Project Experience
 # Short description of your site
 description: Collection of data science projects in R, Python and Matlab including Neural Networks-Deep Learning, Prediction, Machine Learning, Image Recognition, etc.
 
